@@ -12,7 +12,8 @@
  # -Python 
  # -CSS 
  # -JAVASCRIPT 
- # -HTML
+  -HTML
+  
 # Databases:
   -Postgresql
 
