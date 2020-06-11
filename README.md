@@ -11,7 +11,7 @@
 # Programming Language: 
  # -Python 
  # -CSS 
- # -JAVASCRIPT 
+  -JAVASCRIPT 
   -HTML
   
 # Databases:
