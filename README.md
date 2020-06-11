@@ -13,7 +13,8 @@
  # -CSS 
  # -JAVASCRIPT 
  # -HTML
-
+# Databases:
+  -Postgresql
 
 
  
