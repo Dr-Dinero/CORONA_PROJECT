@@ -10,7 +10,7 @@
 
 # Programming Language: 
  # -Python 
- # -CSS 
+  -CSS 
   -JAVASCRIPT 
   -HTML
   
